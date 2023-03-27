@@ -1,0 +1,13 @@
+h1,h2,h3{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: #d59500;
+}
+p{
+    text-align: center;
+}
+
+.caution{
+    color: crimson;
+    font-weight: bold;
+}
